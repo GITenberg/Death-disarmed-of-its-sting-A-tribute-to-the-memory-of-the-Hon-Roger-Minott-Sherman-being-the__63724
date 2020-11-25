@@ -1,0 +1,30 @@
+_repo: Death-disarmed-of-its-sting-A-tribute-to-the-memory-of-the-Hon-Roger-Minott-Sherman-being-the__63724
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atwater, Lyman Hotchkiss
+    alias: Atwater, Lyman H.
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '52566'
+    url: http://www.gutenberg.org/2009/agents/52566
+    wikipedia: https://en.wikipedia.org/wiki/Lyman_Hotchkiss_Atwater
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63724'
+  lccn: '15003861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Funeral sermons'
+- !lcc 'F001'
+- !lcsh 'Sherman, Roger M. (Roger Minott), 1773-1844'
+- !lcc 'BV'
+- GITenberg
+title: "Death disarmed of its sting\r\nA tribute to the memory of the Hon. Roger Minott\
+  \ Sherman, being the discourse preached at his funeral, January 2, 1845"
+url: http://www.gutenberg.org/ebooks/63724
